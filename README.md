@@ -3,6 +3,8 @@
 ![Static Badge](https://img.shields.io/badge/Status%20-%20In%20Early%20Development%20-%20yellow)
 ![Static Badge](https://img.shields.io/badge/Game%20Engine%20-%20Godot%20-%20%23478cbf)
 ![Static Badge](https://img.shields.io/badge/Platforms%20-%20Web%20-%20grey)
+![Static Badge](https://img.shields.io/badge/October%204%2C%202026%20--%20-%20blue)
+
 
 
 
