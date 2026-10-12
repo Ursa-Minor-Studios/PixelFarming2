@@ -25,3 +25,5 @@ The **Discussions** tab found at _Top bar > Discussions_ is for community engage
 ### GrodyBrody
 ![Static Badge](https://img.shields.io/badge/Roles%20-%20Artist%20-%20black)
 
+### Shirimiku
+![Static Badge](https://img.shields.io/badge/Roles%20-%20Music%20Composer%20-%20black)
