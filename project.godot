@@ -14,12 +14,8 @@ config/name="Pixel Farming 2"
 config/description="2D space colony farm builder game, sequal to Pixel Farming."
 config/tags=PackedStringArray("farming")
 run/main_scene="uid://c1h04dgvv3iis"
-config/features=PackedStringArray("4.7", "GL Compatibility")
+config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
-
-[autoload]
-
-UserPlacement="*uid://ci422ncevuarp"
 
 [global_group]
 
@@ -32,3 +28,5 @@ Crops=""
 [rendering]
 
 rendering_device/driver.windows="d3d12"
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
